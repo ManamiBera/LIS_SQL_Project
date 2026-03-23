@@ -27,6 +27,8 @@ In this project, I analyzed a library dataset using SQL to understand book usage
 
 2. Are there inactive members?
 
+3. Which library members have never borrowed books?
+
 #### Key Insights
 
 • A small number of members account for most borrowings.
@@ -35,4 +37,28 @@ In this project, I analyzed a library dataset using SQL to understand book usage
 
 ### Book Demand Analysis
 
-1. Which 
+1. Which are the most borrowed books?
+
+2. Which authors are most popular?
+
+3. Which books have high demand but limited copies?
+
+### Department Analysis
+
+1. Which department uses the library the most?
+
+2. Who uses the library more students or faculty?
+
+### Inventory & Efficiency Analysis
+
+1. Which books are never borrowed?
+
+2. What are the titles of the books that are never issued?
+
+3. Which books are issued more than once?
+
+### Timed Based Analysis
+
+1. How does book borrowing vary by date?
+
+2. Which are the days when the books are borrowed the most?
